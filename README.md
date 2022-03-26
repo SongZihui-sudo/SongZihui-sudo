@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 Hi，我是一个在校大学生，喜欢编程，希望和大家共同学习。     
 
 我的博客，欢迎来访[编程公社](s-zh.space)       
+
+我的统计：   
+     
+[![SongZihui-sudo 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=SongZihui-sudo&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)      
