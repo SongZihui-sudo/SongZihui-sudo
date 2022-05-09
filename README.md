@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- theme=cobalt Fun fact: ...
 -->
 Hi，我来自华北理工大学，是一个在校大学生，喜欢编程，希望和大家共同学习。     
 
@@ -24,7 +24,6 @@ Hi，我来自华北理工大学，是一个在校大学生，喜欢编程，希
 
 最多使用的语言：
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihui-sudo&langs_count=8&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihui-sudo&langs_count=8&theme=cobalt)   
 
-编码时间，。。。。。。   
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SongZihui&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)   
