@@ -24,6 +24,4 @@ Hi，我来自华北理工大学，是一个在校大学生，喜欢编程，希
 
 最多使用的语言：
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihui-sudo&langs_count=8&theme=cobalt)   
-
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SongZihui&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihui-sudo&langs_count=8&theme=cobalt)    
