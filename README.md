@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 Hi，我现在就读于东北林业大学，喜欢编程，希望和大家共同学习。     
 
 [我的博客](https://szhwho.top/) ，欢迎来访  
+
+Hi, I'm currently studying at Northeast Forestry University, I love programming and hope to learn with you all.  
+
+[My blog](https://szhwho.top/), welcome to visit!  
+
 我的统计：   
      
 [![SongZihui-sudo 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=SongZihui-sudo&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)           
