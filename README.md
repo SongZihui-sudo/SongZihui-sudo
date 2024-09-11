@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - theme=cobalt Fun fact: ...
 -->
-Hi，我来自华北理工大学，是一个在校大学生，喜欢编程，希望和大家共同学习。     
+Hi，我现在就读于东北林业大学，喜欢编程，希望和大家共同学习。     
 
 我的博客，欢迎来访[编程公社](https://program-commune.blogspot.com/)       
 
